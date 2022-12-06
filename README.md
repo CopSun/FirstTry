@@ -1,0 +1,2 @@
+# FirstTry
+Знакомство с GitHub
